@@ -8,6 +8,8 @@
 
 • 9663_N-Queen
 
-3. Distributed processing
+3. Distributed processing (분산처리)
 
 • 1009_분산_처리
+
+4. Binary Search (이분탐색)

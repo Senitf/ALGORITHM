@@ -1,0 +1,13 @@
+유형별 문제 분류
+
+1. DFS (탐색)
+
+• 2667_단지번호붙이기
+
+2. Back-Tracking (백트래킹)
+
+• 9663_N-Queen
+
+3. Distributed processing
+
+• 1009_분산_처리
